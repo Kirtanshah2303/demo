@@ -1,11 +1,11 @@
 ## Table of contents
-* [demo](#Demo) 
-* [Demo Writing](#Writing)
+* [Introduction](#Intoduction) 
+* [About Us](#About Us)
 
-## demo
+# Introduction
 demo file
 
-# Demo Writing
+# About Us
 Hello I am writing this README file for practice only.
 
 ## Some Popular commands
