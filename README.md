@@ -5,7 +5,7 @@
 ## demo
 demo file
 
-## Demo Writing
+# Demo Writing
 Hello I am writing this README file for practice only.
 
 ## Some Popular commands
