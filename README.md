@@ -1,11 +1,11 @@
 ## Table of contents
 * [Introduction](#Intoduction) 
-* [About Us](#About Us)
+* [AboutUs](#About Us)
 
 # Introduction
 demo file
 
-# About Us
+# AboutUs
 Hello I am writing this README file for practice only.
 
 ## Some Popular commands
